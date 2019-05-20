@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>2.0.0</version>
+    <title>$title$</title>
+    <authors>DreamlessRaw</authors>
+    <owners>DreamlessRaw</owners>
+    <projectUrl>https://github.com/DreamlessRaw/Xamarin.SDK</projectUrl>
+    <iconUrl>https://github.com/DreamlessRaw/Xamarin.SDK</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>德科NFC转换</description>
+    <copyright>Copyright 2019</copyright>
+  </metadata>
+</package>
